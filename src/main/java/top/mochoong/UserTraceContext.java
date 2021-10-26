@@ -5,9 +5,7 @@ import org.springframework.util.ClassUtils;
 import java.util.Optional;
 
 /**
- * @author yeqi
- * @date 2020/7/7 16:28:56
- * reference trace-logger-spring-boot-starter
+ * @author tsai
  */
 public class UserTraceContext<T> {
     private UserTraceContext() {
